@@ -1,32 +1,32 @@
-# 🖥️ Soy Antonio Martinez Ruiz, ¡Bienvenido a mi GitHub! 🖥️
+# 🖥️ I'm Antonio Martinez Ruiz, welcome to my GitHub! 🖥️
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About me
 
-¡Hola! Soy un desarrollador Full Stack con base en Ingeniería de Datos. Me apasiona crear aplicaciones web eficientes y desarrollar videojuegos.
+Hello! I am a Full Stack developer based in Data Engineering. I am passionate about creating efficient web applications and developing video games.
 
-- 🚀 **Años de formación**: 2+
+- 🚀 **Years of training**: 2+
 - 🛠 **Tech Stack**: JavaScript, Python, Node.js, React, SQL, NoSQL
-- 🌐 **Idiomas**: Inglés, Español
+- 🌐 **Languages**: English, Spanish
 
-## 🛠 Habilidades Técnicas
+## 🛠 Technical skills
 
 - **Frontend**: HTML5, CSS3, JavaScript, React
 - **Backend**: Node.js, Express.js
-- **Bases de Datos**: MongoDB, PostgreSQL, MySQL
+- **Databases**: MongoDB, PostgreSQL, MySQL
 - **DevOps**: Azure, AWS
-- **Procesamiento de Datos**: Python (Pandas, NumPy)
+- **Data processing**: Python (Pandas, NumPy)
 
-## 📈 Proyectos Destacados
+## 📈 Featured Projects
 
-### Proyecto de tienda Web
-Aplicación de comercio electrónico con React, Node.js y MongoDB. Incluye autenticación y pasarela de pago.
+### Web store project
+E-commerce application with React, Node.js and MongoDB. Includes authentication and payment gateway.
 
-## 📫 Contacto
+## 📫 Contact
 
-- **Correo electrónico**: antoniomartinezruiz1997@gmail.com
+- **Email**: antoniomartinezruiz1997@gmail.com
 - **LinkedIn**: [linkedin.com/in/antonio-jesús-martínez-ruiz-330a53120](https://www.linkedin.com/in/antonio-jes%C3%BAs-mart%C3%ADnez-ruiz-330a53120/)
 
-¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y conectar conmigo para colaboraciones o preguntas.
+Thank you for visiting my profile! Feel free to explore my projects and connect with me for collaborations or questions.
 
 <!--
 **Antoniomr97/antoniomr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
