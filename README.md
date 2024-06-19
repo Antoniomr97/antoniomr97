@@ -1,4 +1,4 @@
-# 🌟 Soy Antonio Martinez Ruiz, ¡Bienvenido a mi GitHub! 🌟
+# 🖥️ Soy Antonio Martinez Ruiz, ¡Bienvenido a mi GitHub! 🖥️
 
 ## 👨‍💻 Sobre mí
 
