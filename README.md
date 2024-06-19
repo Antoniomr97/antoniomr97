@@ -1,7 +1,7 @@
-🌟 ###Soy Antonio Martinez Ruiz, Bienvenido a mi GitHub 🌟
+###🌟 Soy Antonio Martinez Ruiz, Bienvenido a mi GitHub 🌟
 
 
-👨‍💻 ##Sobre mí
+##👨‍💻 Sobre mí
 #¡Hola! Soy un desarrollador Full Stack con base en Ingeniería de Datos. Me apasiona crear aplicaciones web eficientes y desarrollar videojuegos.
 
 🚀 Años de formación: 2+
