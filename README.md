@@ -24,7 +24,7 @@ E-commerce application with React, Node.js and MongoDB. Includes authentication 
 ## 📫 Contact
 
 - **Email**: antoniomartinezruiz1997@gmail.com
-- **LinkedIn**: [linkedin.com/in/antonio-jesús-martínez-ruiz-330a53120](https://www.linkedin.com/in/antonio-jes%C3%BAs-mart%C3%ADnez-ruiz-330a53120/)
+- **LinkedIn**: [[linkedin.com/in/antonio-jesús-martínez-ruiz-330a53120](https://www.linkedin.com/in/antonio-jes%C3%BAs-mart%C3%ADnez-ruiz-330a53120/)](https://www.linkedin.com/in/antonio-jesus-martinez-ruiz/)
 
 Thank you for visiting my profile! Feel free to explore my projects and connect with me for collaborations or questions.
 
