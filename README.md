@@ -1,44 +1,66 @@
 # 🖥️ I'm Antonio Martinez Ruiz, welcome to my GitHub! 🖥️
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
 
-Hello! I am a Full Stack developer based in Data Engineering. I am passionate about creating efficient web applications and developing video games.
+Hello! I am a Full Stack Developer specializing in Data Engineering with a passion for creating efficient web applications and developing video games.
 
-- 🚀 **Years of training**: 2+
+- 🚀 **Years of Experience**: 2+
 - 🛠 **Tech Stack**: JavaScript, Python, Node.js, React, SQL, NoSQL
 - 🌐 **Languages**: English, Spanish
 
-## 🛠 Technical skills
+## 🛠 Technical Skills
 
 - **Frontend**: HTML5, CSS3, JavaScript, React
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Backend**: Node.js, Express.js, Flask
+- **Databases**: MongoDB, PostgreSQL, MySQL, SQLAlchemy
 - **DevOps**: Azure, AWS
-- **Data processing**: Python (Pandas, NumPy)
+- **Data Processing**: Python (Pandas, NumPy)
+- **Web Scraping**: Selenium
 
 ## 📈 Featured Projects
 
-### Web store project
-E-commerce application with React, Node.js and MongoDB. Includes authentication and payment gateway.
+### 🎮 **PriceSlide** - Video Game Price Tracker
+A web application built with **Flask**, **SQLAlchemy**, and **Selenium** to help gamers find the best deals on video games. Features real-time price comparison, price history visualization, and secure user authentication. 
+
+- **Key Features**:
+  - Real-time price comparison from online stores.
+  - Interactive price history graphs.
+  - Automated price extraction and data persistence.
+- **Technologies**: Python, Flask, SQLAlchemy, Selenium, Matplotlib, HTML5, CSS3
+- **GitHub Repository**: [PriceSlide](https://github.com/Antoniomr97/PriceSlide)
+
+### 🛒 **Web Store Project**
+An e-commerce application developed with **React**, **Node.js**, and **MongoDB**. Includes authentication and payment gateway integration for a seamless shopping experience.
+
+- **Technologies**: JavaScript, React, Node.js, MongoDB
+
+## 🌱 Current Learning
+
+- **Advanced Data Engineering**: Enhancing skills in data pipelines and cloud-based data processing.
+- **Machine Learning**: Exploring machine learning algorithms and applications.
+
+## 👯 Looking to Collaborate On
+
+- Open-source web development projects
+- Data engineering and machine learning applications
+- Innovative video game development projects
+
+## 🤔 Seeking Help With
+
+- Advanced machine learning techniques
+- Integration of complex data processing workflows
+
+## 💬 Ask Me About
+
+- Full Stack development
+- Web scraping techniques
+- Data engineering and processing
 
 ## 📫 Contact
 
 - **Email**: antoniomartinezruiz1997@gmail.com
-- **LinkedIn**: [(https://www.linkedin.com/in/antonio-jes%C3%BAs-mart%C3%ADnez-ruiz-330a53120/)](https://www.linkedin.com/in/antonio-jesus-martinez-ruiz/)
+- **LinkedIn**: [Antonio Jesús Martínez Ruiz](https://www.linkedin.com/in/antonio-jesus-martinez-ruiz/)
 
 Thank you for visiting my profile! Feel free to explore my projects and connect with me for collaborations or questions.
 
-<!--
-**Antoniomr97/antoniomr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
