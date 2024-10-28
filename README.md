@@ -33,7 +33,7 @@ A web application built with **Flask**, **SQLAlchemy**, and **Selenium** to help
 An e-commerce application developed with **React**, **Node.js**, and **MongoDB**. Includes authentication and payment gateway integration for a seamless shopping experience.
 
 - **Technologies**: JavaScript, React, Node.js, MongoDB
-- - **GitHub Repository**: [MyShop]((https://github.com/Antoniomr97/myShop))
+- **GitHub Repository**: [MyShop](https://github.com/Antoniomr97/myShop)
 
 ## 🌱 Current Learning
 
