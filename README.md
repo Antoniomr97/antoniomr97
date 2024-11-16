@@ -2,25 +2,27 @@
 
 ## 👨‍💻 About Me
 
-Hello! I am a Full Stack Developer specializing in Data Engineering with a passion for creating efficient web applications and developing video games.
+Hello! I am a **Python Back-End Developer** with **Full Stack Skills in React**, specializing in building efficient web applications and back-end systems. I am passionate about data engineering and continue to specialize every day in **Python**, having recently obtained my **PCAP - Python Certified Associate Developer** certification.
 
 - 🚀 **Years of Experience**: 2+
-- 🛠 **Tech Stack**: JavaScript, Python, Node.js, React, SQL, NoSQL
+- 🛠 **Tech Stack**: Python, React, Flask, Node.js, SQL, NoSQL
+- 🏅 **Certifications**: PCAP - Python Certified Associate Developer
 - 🌐 **Languages**: English, Spanish
 
 ## 🛠 Technical Skills
 
+- **Backend**: Python (Flask, SQLAlchemy), Node.js, Express.js
 - **Frontend**: HTML5, CSS3, JavaScript, React
-- **Backend**: Node.js, Express.js, Flask
-- **Databases**: MongoDB, PostgreSQL, MySQL, SQLAlchemy
+- **Databases**: PostgreSQL, MySQL, MongoDB, SQLAlchemy
 - **DevOps**: Azure, AWS
 - **Data Processing**: Python (Pandas, NumPy)
 - **Web Scraping**: Selenium
+- **Tools**: Git, Docker, VS Code
 
 ## 📈 Featured Projects
 
 ### 🎮 **PriceSlide** - Video Game Price Tracker
-A web application built with **Flask**, **SQLAlchemy**, and **Selenium** to help gamers find the best deals on video games. Features real-time price comparison, price history visualization, and secure user authentication. 
+A web application built with **Flask**, **SQLAlchemy**, and **Selenium** to help gamers find the best deals on video games. It features real-time price comparison, price history visualization, and secure user authentication.
 
 - **Key Features**:
   - Real-time price comparison from online stores.
@@ -37,25 +39,25 @@ An e-commerce application developed with **React**, **Node.js**, and **MongoDB**
 
 ## 🌱 Current Learning
 
-- **Advanced Data Engineering**: Enhancing skills in data pipelines and cloud-based data processing.
-- **Machine Learning**: Exploring machine learning algorithms and applications.
+- **Advanced Python Development**: Enhancing skills in asynchronous programming, web frameworks (Django, Flask), and microservices.
+- **Machine Learning**: Exploring machine learning algorithms and applications with Python.
 
 ## 👯 Looking to Collaborate On
 
-- Open-source web development projects
-- Data engineering and machine learning applications
-- Innovative video game development projects
+- Open-source web development projects (especially Python-based back-end systems).
+- Data engineering and machine learning applications.
+- Innovative video game development projects.
 
 ## 🤔 Seeking Help With
 
-- Advanced machine learning techniques
-- Integration of complex data processing workflows
+- Advanced Python topics such as async programming and advanced frameworks.
+- Integration of complex data processing workflows.
 
 ## 💬 Ask Me About
 
-- Full Stack development
-- Web scraping techniques
-- Data engineering and processing
+- Python back-end development and full stack.
+- Web scraping with Python and Selenium.
+- Data engineering and processing with Python.
 
 ## 📫 Contact
 
@@ -63,5 +65,3 @@ An e-commerce application developed with **React**, **Node.js**, and **MongoDB**
 - **LinkedIn**: [Antonio Jesús Martínez Ruiz](https://www.linkedin.com/in/antonio-jesus-martinez-ruiz/)
 
 Thank you for visiting my profile! Feel free to explore my projects and connect with me for collaborations or questions.
-
----
