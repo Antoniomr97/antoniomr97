@@ -4,7 +4,7 @@
 
 Hello! I am a **Python Back-End Developer** with **Full Stack Skills in React**, specializing in building efficient web applications and back-end systems. I am passionate about data engineering and continue to specialize every day in **Python**, having recently obtained my **PCAP - Python Certified Associate Developer** certification.
 
-- 🚀 **Years of Experience**: 2+
+- 🚀 **Years of Experience**: 3+
 - 🛠 **Tech Stack**: Python, React, Flask, Node.js, SQL, NoSQL
 - 🏅 **Certifications**: PCAP - Python Certified Associate Developer
 - 🌐 **Languages**: English, Spanish
