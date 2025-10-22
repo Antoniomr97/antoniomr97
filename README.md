@@ -21,7 +21,7 @@ Hello! I am a **Python Back-End Developer** with **Full Stack Skills in React**,
 
 ## 📈 Featured Projects
 
-### 🎮 **PriceSlide** - Video Game Price Tracker
+### 🎮 **PriceSlice** - Video Game Price Tracker
 A web application built with **Flask**, **SQLAlchemy**, and **Selenium** to help gamers find the best deals on video games. It features real-time price comparison, price history visualization, and secure user authentication.
 
 - **Key Features**:
