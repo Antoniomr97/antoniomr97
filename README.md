@@ -4,7 +4,7 @@ Welcome to my GitHub! I build **efficient web applications**, **back-end systems
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 I am a **Python Back-End Developer** with **Full Stack skills in React**, passionate about solving problems through code. Recently, I obtained my **PCAP - Python Certified Associate Developer** certification and I’m actively studying **DAW with Java**.
 
@@ -24,17 +24,27 @@ I am a **Python Back-End Developer** with **Full Stack skills in React**, passio
 
 ## 🛠 Tech Stack
 
-- **Backend**: Python (Flask, SQLAlchemy), Node.js, Express.js  
-- **Frontend**: HTML5, CSS3, JavaScript, React  
+- **Backend**: Python (Flask, SQLAlchemy), Node.js, Express.js, Java (Spring)
+- **Frontend**: HTML5, CSS3, JavaScript, React, JavaFX
 - **Databases**: PostgreSQL, MySQL, MongoDB, SQLAlchemy  
 - **DevOps & Cloud**: Azure, AWS  
 - **Data Processing**: Python (Pandas, NumPy)  
 - **Web Scraping**: Selenium  
-- **Tools & Workflow**: Git, Docker, VS Code  
+- **Tools & Workflow**: Git, Docker, VS Code, Gradle
 
 ---
 
 ## 📈 Featured Projects
+
+### 📚 Library Management System - Java
+A **Java application** for comprehensive library management, featuring a modern JavaFX interface and dual persistence with MySQL and XML.
+
+- **Key Features**:
+  - Full CRUD for users, books, and loans
+  - Advanced XML backup and restoration system (DOM/SAX)
+  - Intelligent overdue and return date calculation
+- **Technologies**: Java, JavaFX, MySQL, JDBC, XML, Gradle
+- **GitHub**: [Gestor de Biblioteca](https://github.com/Antoniomr97/Gestor_Biblioteca_Completo_JAVA)
 
 ### 🎮 PriceSlide - Video Game Price Tracker
 A **Flask web application** for real-time price comparison and historical price tracking of video games, with secure user authentication.
@@ -92,5 +102,3 @@ A fun **Python game** built entirely with **Pygame**, featuring game mechanics, 
 ---
 
 Thank you for visiting my profile! Feel free to explore my projects and connect for collaborations or questions.
-
-
